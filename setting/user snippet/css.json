@@ -1,0 +1,34 @@
+{
+  "flex center shortcut": { 
+    "prefix": "dfcc",
+    "body": [
+      "display:flex;",
+      "justify-content: center;",
+      " align-items: center;"
+    ],
+    "description": "to center the div using flex"
+  },
+  "flex start shortcut": {
+    "prefix": "dfss",
+    "body": [
+      "display:flex;",
+      "justify-content: flex-start;",
+      " align-items: flex-start;"
+    ],
+    "description": "to start the div using flex"
+  },
+  "flex end shortcut": {
+    "prefix": "dfee",
+    "body": [
+      "display:flex;",
+      "justify-content: flex-end;",
+      " align-items: flex-end;"
+    ],
+    "description": "to end the div using flex"
+  },
+  "width height shortcut": {
+    "prefix": "wh",
+    "body": ["width:$1;", "height:$2;"],
+    "description": "widht height"
+  }
+}

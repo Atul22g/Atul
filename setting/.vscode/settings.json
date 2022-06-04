@@ -1,0 +1,29 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode" // code format by pretter
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode" // code format by pretter
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode" // code format by pretter
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode" // code format by pretter
+  },
+  "liveServer.settings.donotShowInfoMsg": true, //live server
+  "liveServer.settings.donotVerifyTags": true, //live server
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact" //emmit
+  },
+  "workbench.iconTheme": "material-icon-theme", //icon theme
+  "workbench.colorTheme": "One Dark Pro Darker", //theme
+  "code-runner.runInTerminal": true, // code runner in terminal
+  "code-runner.clearPreviousOutput": true, // code runner clearPreviousOutput
+  "editor.fontFamily": "'Cascadia Code',Consolas, 'Courier New', monospace", // add cascadia code by https://github.com/microsoft/cascadia-code
+  "window.title": "${dirty}${activeEditorShort}${separator} Atul22g", // vs vode title
+  "window.menuBarVisibility": "compact", // Navbar of vsCode
+  "editor.fontLigatures": true, // Combine The Arrows
+  "bracketPairColorizer.depreciation-notice": true, // bracketPairColorizer.depreciation-notice
+  "editor.fontSize": 15 // font Size
+}
